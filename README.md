@@ -13,7 +13,7 @@ I am an aspiring data analyst. I am looking for my first job as a data analyst. 
    <a href="mailto:borodkovictor9@gmail.com">
        <img src="https://img.shields.io/badge/Email-2CA5E0?style=for-the-badge&logo=gmail&logoColor=red"/>
    </a>
-   <a href="https://www.linkedin.com/in/victor-borodko-77832519b/?locale=en_US">
+   <a href="linkedin.com/in/victor-borodko-77832519b">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 </p>
