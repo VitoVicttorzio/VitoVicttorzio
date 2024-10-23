@@ -65,9 +65,9 @@ I am an aspiring data analyst. I am looking for my first job as a data analyst. 
 
 | Name of course                                    | Description                                                                                                                                                                                                                       |
 | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Interactive SQL simulator                         | This course aims to teach how to create databases and implement database queries in SQL language for various subject areas (https://www.linkedin.com/in/victor-borodko-77832519b/?locale=en_US)                                   |        
-| Python Generation: a course for beginners         | Introduces basic data types, constructs, and principles of structured programming using a version of the Python language                                                                                                          |
-| Python Generation: a course for advanced learners | The course covers two-dimensional arrays, tuples, sets, dictionaries, advanced functions, working with different modules such as random, string, decimal, fractions and complex, working with graphics (turtle module) and files. |
+| Interactive SQL simulator                         | This course aims to teach how to create databases and implement database queries in SQL language for various subject areas (link to: https://stepik.org/cert/2512271?lang=en)                                                     |        
+| Python Generation: a course for beginners         | Introduces basic data types, constructs, and principles of structured programming using a version of the Python language (link to: https://stepik.org/cert/2536755?lang=en)                                                       |
+| Python Generation: a course for advanced learners | The course covers two-dimensional arrays, tuples, sets, dictionaries, advanced functions, working with different built-in modules and files (link to: https://stepik.org/cert/2555157?lang=en)                                    |
 </div>
 
 <h2 align="left">🔥 My statistics :</h2>
