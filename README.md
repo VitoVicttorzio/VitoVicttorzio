@@ -55,8 +55,8 @@ I am an aspiring data analyst. I am looking for my first job as a data analyst. 
 
 | Name of project | Description                                                    |
 | --------------- | -------------------------------------------------------------- |
-| __Superstore__  | Data analysis with Python libraries using Jupyter Lab          |
-| __Bike-Stores__ | Data analysis with MySQL and data visualization using Power BI |
+| __Superstore__  |The dataset contains a wide range of trade information, i.e. qualitative data such as orders, customers, products (categories and subcategories), segments, delivery methods, cities and regions. Quantitative data is represented by sales, quantity, discounts and profit information.  The dataset is analyzed and visualized using Python libraries (numpy, pandas matplotlib, seaborn and plotly) in Jupyter Lab.|
+| __Bike-Stores__ | Data analysis was performed using MySQL and data visualized by Power BI Desktop. The database contains 9 tables. Each table includes various information about customers, orders, staff, stores, brands, categories, products and stocks.|
 
 </div>
 
