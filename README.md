@@ -5,7 +5,7 @@
 
 <h2 align="left">👩‍💻 About me </h2>
 
-<p align="left">
+<p align="justify">
 I am an aspiring data analyst. I am looking for my first job as a data analyst. I have taken several courses on sql and python and have done projects. I have knowledge of databases and working with them using MySQL, knowledge of Python and its libraries (numpy, pandas, matplotlib, seaborn, plotly), and experience with data visualization using Microsoft Power Bi.  
 </p>
 
@@ -51,14 +51,28 @@ I am an aspiring data analyst. I am looking for my first job as a data analyst. 
 </div>
 
 <h2 align="left"> 📝 My projects </h2>
-<div align="left">
 
-| Name of project | Description                                                    |
-| --------------- | -------------------------------------------------------------- |
-| __Superstore__  |The dataset contains a wide range of trade information, i.e. qualitative data such as orders, customers, products (categories and subcategories), segments, delivery methods, cities and regions. Quantitative data is represented by sales, quantity, discounts and profit information.  The dataset is analyzed and visualized using Python libraries (numpy, pandas matplotlib, seaborn and plotly) in Jupyter Lab.|
-| __Bike-Stores__ | Data analysis was performed using MySQL and data visualized by Power BI Desktop. The database contains 9 tables. Each table includes various information about customers, orders, staff, stores, brands, categories, products and stocks.|
+<p align="left">
+<b> Superstore Sales Analysis </b>
+</p>
 
-</div>
+<p align="justify">
+   The main goal of Superstore Data Analysis is to thoroughly explore the dataset, provide valuable insights into Superstore's sales performance, highlighting areas of strength and weakness and identify areas for the continued success and refinement of the Superstore. The dataset contains a wide range of information about sales transactions, customers, products, and geographical locations. 
+   The analysis includes several key metrics, such as sales revenue, profit, as well as explores trends in sales over time, product categories and sub-cateories, customer segments, shipping modes, and geographical regions. 
+   The data was analyzed and visualized using Python libraries (NumPy, Pandas, Matplotlib, Seaborn Plotly) in Jupyter Lab.
+</p>
+
+<p align="left">
+<b> Bike-Stores </b>
+</p>
+
+<p align="justify">
+   The main objective of the project was to gain valuable insights into various aspects of bicycle store operations, including customer behavior, employee achievements, brand and category characteristics, geographic features, annual and monthly revenues.
+   Each table of the database includes various information about customers, orders, staff, stores, brands, categories, products and stocks. The main analysis was performed by MySQL.
+   To complement the detailed SQL analysis, I have created an interactive Power BI dashboard that provides dynamic visualizations of key metrics such as total sales, total quantity, total orders and total stocks.
+</p>
+
+
 
 <h2 align="left"> 📖 My courses </h2>
 <div align="left">
