@@ -53,7 +53,7 @@ I am an aspiring data analyst. I am looking for my first job as a data analyst. 
   <img width="15" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="vs code logo"  />
   <img width="15" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="50" alt="git logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="git logo" />
   <img width="15" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"  height="50" alt="github logo" />
   <img width="15" />
