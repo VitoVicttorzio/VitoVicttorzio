@@ -17,14 +17,6 @@ A key aspect of my role is my experience with business intelligence (BI) tools, 
 My primary programming language is Python, which I utilize alongside its external libraries for data analysis and manipulation, including NumPy, Pandas, and Matplotlib for data visualization.
 </p>
 
-<p align='center'>
-   <a href="mailto:borodkovictor9@gmail.com">
-       <img src="https://img.shields.io/badge/Email-2CA5E0?style=for-the-badge&logo=gmail&logoColor=red"/>
-   </a>
-   <a href="http://linkedin.com/in/victor-borodko-77832519b">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-</p>
 
 <h2 align="left"> 💻 Technical Stack </h2>
 
