@@ -5,16 +5,17 @@
 
 <h2 align="left">👩‍💻 About me </h2>
 
-<div style="width: 100%">
-
+<p align="justify">
 Hello, my name is Victor. I'm working as a data analyst/BI developer. My passion for data analysis inspires me to continuously explore new technologies, always working to achieve meaningful outcomes.
+</p>
 
+<p align="justify">
 A key aspect of my role is my experience with business intelligence (BI) tools, especially Power BI. I use Power BI to create interactive dashboards and reports that provide actionable information and support data-driven decision-making.
+</p>
 
+<p align="justify">
 My primary programming language is Python, which I utilize alongside its external libraries for data analysis and manipulation, including NumPy, Pandas, and Matplotlib for data visualization.
-
-</div>
-
+</p>
 
 <p align='center'>
    <a href="mailto:borodkovictor9@gmail.com">
