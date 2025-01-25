@@ -6,13 +6,10 @@
 <h2 align="left">👩‍💻 About me </h2>
 
 <p align="justify">
-    Hello, my name is Victor. I'm working as data analyst/Bi developer. My passion for data analysis inspires me to continuously explore new technologies, always working to achieve meaningful outcomes.  
-    A key aspect of my role is my experience with business intelligence (BI) tools, especially Power BI. I use Power BI to create interactive dashboards and reports that provide actionable information and support data-driven decision making. My primary programming language is Python, which I utilize alongside its external libraries for data analysis and manipulation, including NumPy, Pandas, and Matplotlib for data visualization.   
-    In addition to my experience in Python, I also work with structured query languages such as MS SQL, PostgreSQL. Beyond structured data, I also work with semi-structured data, utilizing MongoDB.  
-    Furthermore, I have experience with containerization and orchestration tools. I utilize Docker, Docker Compose, and Dockerfiles to containerize applications, manage multi-container environments. For orchestration tools I mostly use Apache Airflow, which I use to orchestrate and automate complex data workflows.  
-
-
-
+    <p>Hello, my name is Victor. I'm working as data analyst/Bi developer. My passion for data analysis inspires me to continuously explore new technologies, always working to achieve meaningful outcomes. </p>
+    <p> A key aspect of my role is my experience with business intelligence (BI) tools, especially Power BI. I use Power BI to create interactive dashboards and reports that provide actionable information and support data-driven decision making. My primary programming language is Python, which I utilize alongside its external libraries for data analysis and manipulation, including NumPy, Pandas, and Matplotlib for data visualization. </p>   
+    <p> In addition to my experience in Python, I also work with structured query languages such as MS SQL, PostgreSQL. Beyond structured data, I also work with semi-structured data, utilizing MongoDB. </p> 
+    <p> Furthermore, I have experience with containerization and orchestration tools. I utilize Docker, Docker Compose, and Dockerfiles to containerize applications, manage multi-container environments. For orchestration tools I mostly use Apache Airflow, which I use to orchestrate and automate complex data workflows. </p>
 </p>
 
 <p align='center'>
