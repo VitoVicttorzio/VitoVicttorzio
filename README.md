@@ -14,9 +14,16 @@ A key aspect of my role is my experience with business intelligence (BI) tools, 
 </p>
 
 <p align="justify">
-My primary programming language is Python, which I utilize alongside its external libraries for data analysis and manipulation, including NumPy, Pandas, and Matplotlib for data visualization.
+My primary programming language is Python, which I utilize alongside its external libraries for data analysis and manipulation, including NumPy, Pandas, and Matplotlib, Seaborn and Plotly for data visualization.
 </p>
 
+<p align="justify">
+Beyond structured data, I also work with semi-structured data, utilizing MongoDB to handle diverse data formats.
+</p>
+
+<p align="justify">
+I also have experience working with data engineering tools. In my last project I created simple data pipelines using Apache Airflow.
+</p>
 
 <h2 align="left"> 💻 Technical Stack </h2>
 
