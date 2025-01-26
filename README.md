@@ -51,6 +51,8 @@ I also have experience working with data engineering tools. In my last project I
 <img width="15" />  
 <img src= "https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="power bi logo"  />
   <img width="15" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="50" alt="power bi logo" />
+    <img width="15" />        
    
 </div>
 
