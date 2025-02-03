@@ -103,9 +103,3 @@ I also have experience working with data engineering tools. In my last project I
 | Python Generation: a course for beginners         | Introduces basic data types, constructs, and principles of structured programming using a version of the Python language (link to: https://stepik.org/cert/2536755?lang=en)                                                       |
 | Python Generation: a course for advanced learners | The course covers two-dimensional arrays, tuples, sets, dictionaries, advanced functions, working with different built-in modules and files (link to: https://stepik.org/cert/2555157?lang=en)                                    |
 </div>
-
-<h2 align="left">🔥 My statistics :</h2>
-
-<div align="center">
-   <img src="https://streak-stats.demolab.com?user=VitoVicttorzio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
