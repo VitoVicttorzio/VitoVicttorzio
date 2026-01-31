@@ -92,14 +92,3 @@ I also have experience working with data engineering tools. In my last project I
    To complement the detailed SQL analysis, I have created an interactive Power BI dashboard that provides dynamic visualizations of key metrics such as total sales, total quantity, total orders and total stocks.
 </p>
 
-
-
-<h2 align="left"> 📖 My courses </h2>
-<div align="left">
-
-| Name of course                                    | Description                                                                                                                                                                                                                       |
-| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Interactive SQL simulator                         | This course aims to teach how to create databases and implement database queries in SQL language for various subject areas (link to: https://stepik.org/cert/2512271?lang=en)                                                     |        
-| Python Generation: a course for beginners         | Introduces basic data types, constructs, and principles of structured programming using a version of the Python language (link to: https://stepik.org/cert/2536755?lang=en)                                                       |
-| Python Generation: a course for advanced learners | The course covers two-dimensional arrays, tuples, sets, dictionaries, advanced functions, working with different built-in modules and files (link to: https://stepik.org/cert/2555157?lang=en)                                    |
-</div>
