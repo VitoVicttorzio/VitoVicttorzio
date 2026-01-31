@@ -6,24 +6,21 @@
 <h2 align="left">👩‍💻 About me </h2>
 
 <p align="justify">
-Hello, my name is Victor. I'm working as a data analyst/BI developer. My passion for data analysis inspires me to continuously explore new technologies, always working to achieve meaningful outcomes.
+Hello, my name is Victor. I am a Data Engineer with a strong background in analytics and business intelligence, specializing in building reliable, scalable, and well-structured data platforms that support advanced reporting and data-driven decision-making.
 </p>
 
 <p align="justify">
-A key aspect of my role is my experience with business intelligence (BI) tools, especially Power BI. I use Power BI to create interactive dashboards and reports that provide actionable information and support data-driven decision-making.
+My core technical expertise includes SQL and Python, which I use extensively for data modeling, transformation, validation. Additionally, I work with Apache Spark (namely PySpark) to process large-scale datasets efficiently, designing distributed data pipelines that handle both batch and incremental workloads. I have hands-on experience orchestrating data workflows using Apache Airflow, where I design maintainable DAGs, implement monitoring and alerting, and ensure reliable scheduling and dependency management across multiple data sources and downstream systems.
 </p>
 
 <p align="justify">
-My primary programming language is Python, which I utilize alongside its external libraries for data analysis and manipulation, including NumPy, Pandas, and Matplotlib, Seaborn and Plotly for data visualization.
+I have Hands-on experience with semantic web technologies, particularly RDF-based data modeling and ontology development. Skilled in writing SPARQL queries to efficiently query, integrate, and federate data from RDF graphs.
 </p>
 
 <p align="justify">
-Beyond structured data, I also work with semi-structured data, utilizing MongoDB to handle diverse data formats.
+In addition to data engineering, I bring strong data analytics and business intelligence expertise. I have significant experience with Power BI, where I develop semantic models, dashboards, and reports that translate complex data into actionable insights for business stakeholders. This dual background allows me to design data platforms that are not only technically robust but also highly effective for downstream analytics and reporting use cases.
 </p>
 
-<p align="justify">
-I also have experience working with data engineering tools. In my last project I created simple data pipelines using Apache Airflow.
-</p>
 
 <h2 align="left"> 💻 Technical Stack </h2>
 
