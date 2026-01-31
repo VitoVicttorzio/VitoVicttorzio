@@ -26,34 +26,32 @@ In addition to data engineering, I bring strong data analytics and business inte
 
 
 <div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="python logo" />
-<img width="15" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
- <img width="15" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
- <img width="15" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="50" alt="matplotlib logo" />
- <img width="15" />  
-<img src = "https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50" alt="seaborn logo"  />
- <img width="15" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="50" alt="plotly logo"  />
- <img width="15" />  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="50" alt="spark logo" />
-<img width="15" />            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" alt="docker" />
- <img width="15" />  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="50" alt="apache airflow" />
- <img width="15" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
-<img width="15" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="postgres logo" />
-<img width="15" />  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="50" alt="mongoDB logo" />
-    <img width="15" />   
- <img src= "https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="power bi logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
   <img width="15" />  
-  
-      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="postgres logo" />
+  <img width="15" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img width="15" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="50" alt="spark logo" />
+  <img width="15" />   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="50" alt="apache airflow" />
+  <img width="15" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="AWS logo" />
+  <img width="15" />   
+<img src= "https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="50" alt="Snowlake logo"  />
+  <img width="15" />   
+<img src= "https://cygri.github.io/rdf-logos/svg/sparql.svg" height="50" alt="SPARQL"  />
+  <img width="15" />  
+<img src= "https://cygri.github.io/rdf-logos/svg/turtle.svg" height="50" alt="Turtle"  />
+  <img width="15" /> 
+<img src= "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ontotext_GraphDB_Logo.png" height="50" alt="Graph DB logo"  />
+  <img width="15" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" alt="docker" />
+  <img width="15" />  
+ <img src= "https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="power bi logo"  />
+  <img width="15" /> 
+<img src= "https://images.g2crowd.com/uploads/product/image/21b6864c451af437a6c6c45ca82f6317/disqover.png" height="50" alt="power bi logo"  />
+  <img width="15" /> 
    
 </div>
 
@@ -66,26 +64,3 @@ In addition to data engineering, I bring strong data analytics and business inte
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="git logo" />
   <img width="15" />
 </div>
-
-<h2 align="left"> 📝 My projects </h2>
-
-<p align="left">
-<b> Superstore Sales Analysis </b>
-</p>
-
-<p align="justify">
-   The main goal of Superstore Data Analysis is to thoroughly explore the dataset, provide valuable insights into Superstore's sales performance, highlighting areas of strength and weakness and identify areas for the continued success and refinement of the Superstore. The dataset contains a wide range of information about sales transactions, customers, products, and geographical locations. 
-   The analysis includes several key metrics, such as sales revenue, profit, as well as explores trends in sales over time, product categories and sub-cateories, customer segments, shipping modes, and geographical regions. 
-   The data was analyzed and visualized using Python libraries (NumPy, Pandas, Matplotlib, Seaborn Plotly) in Jupyter Lab.
-</p>
-
-<p align="left">
-<b> Bike-Stores </b>
-</p>
-
-<p align="justify">
-   The main objective of the project was to gain valuable insights into various aspects of bicycle store operations, including customer behavior, employee achievements, brand and category characteristics, geographic features, annual and monthly revenues.
-   Each table of the database includes various information about customers, orders, staff, stores, brands, categories, products and stocks. The main analysis was performed by MySQL.
-   To complement the detailed SQL analysis, I have created an interactive Power BI dashboard that provides dynamic visualizations of key metrics such as total sales, total quantity, total orders and total stocks.
-</p>
-
