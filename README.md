@@ -57,10 +57,15 @@ In addition to data engineering, I bring strong data analytics and business inte
 
 <h2 align="left">🛠 Tools </h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="jupyter notebook logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="jupyter notebook logo"  />
   <img width="15" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="vs code logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="vs code logo"  />
   <img width="15" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="git logo" />
   <img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="50" alt="gitlab logo" />
+  <img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" height="50" alt="bitbucket logo" />
+  <img width="15" />
+
 </div>
